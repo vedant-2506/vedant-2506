@@ -1,5 +1,5 @@
 # 💫 About Me:
-aster’s student in Scientific Computing at Savitribai Phule Pune University, focused on Full-Stack Java development and Machine Learning. Currently working on academic and personal projects involving backend systems, database design, and RESTful APIs. Actively learning advanced Java, Spring Boot, SQL optimization, and core ML concepts. Interested in open-source best practices and applying academic knowledge to real-world software solutions.
+Master’s student in Scientific Computing at Savitribai Phule Pune University, focused on Full-Stack Java development and Machine Learning. Currently working on academic and personal projects involving backend systems, database design, and RESTful APIs. Actively learning advanced Java, Spring Boot, SQL optimization, and core ML concepts. Interested in open-source best practices and applying academic knowledge to real-world software solutions.
 
 
 ## 🌐 Socials:

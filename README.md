@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedant Pandurang Divate</h1>
 <h3 align="center">MSc Scientific Computing | Savitribai Phule Pune University | Pune, India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedant-2506&label=Profile%20Views&color=0e75b6&style=flat" alt="vedant-2506" />
-</p>
 
 ---
 

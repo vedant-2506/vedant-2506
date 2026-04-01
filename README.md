@@ -81,29 +81,6 @@ My ongoing collection of LeetCode problem solutions. I focus on writing clean, r
 
 **Tech:** C++
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant-2506&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-2506&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vedant-2506&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedant-2506&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-</p>
 
 ---
 
@@ -112,7 +89,7 @@ My ongoing collection of LeetCode problem solutions. I focus on writing clean, r
 <p align="left">
   <a href="https://www.linkedin.com/in/vedant-divate-532a30283/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vedant%20Divate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a> <br>
   <a href="mailto:vedantdivate2506@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-vedantdivate2506-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>

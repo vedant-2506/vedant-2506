@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Pandurang Divate</h1>
-<h3 align="center">Computer Science grad → MSc Scientific Computing | Java Backend Developer | Pune, India 🇮🇳</h3>
+<h3 align="center">MSc Scientific Computing | Savitribai Phule Pune University | Pune, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedant-2506&label=Profile%20Views&color=0e75b6&style=flat" alt="vedant-2506" />
@@ -9,12 +9,11 @@
 
 ## 👨‍💻 About Me
 
-I did my BSc in Computer Science from **Modern College of Art, Commerce & Science, Shivajinagar, Pune** and I'm currently pursuing **MSc Scientific Computing** from the **Dept. of Scientific Computing, Modelling and Simulation, Savitribai Phule Pune University**.
+I'm currently pursuing **MSc Scientific Computing** from the **Dept. of Scientific Computing, Modelling and Simulation, Savitribai Phule Pune University**.
 
-I like building web applications that solve real problems. My backend work is mostly in Java — JSP, Servlets, JDBC — and I'm currently learning Spring Boot. On the academic side, I work with numerical methods and scientific computing in C++.
+Before this, I completed my **BSc in Computer Science** from **Modern College of Art, Commerce & Science, Shivajinagar, Pune**.
 
 - 📍 Based in Pune, Maharashtra
-- 🌱 Currently learning **Spring Boot** and solving problems on **LeetCode**
 - 📫 Reach me at **vedantdivate2506@gmail.com**
 - ⚡ Fun fact: I debug better with chai ☕
 
@@ -84,12 +83,14 @@ My ongoing collection of LeetCode problem solutions. I focus on writing clean, r
 
 ---
 
+
 ## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vedant-divate-532a30283/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vedant%20Divate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> <br>
+  </a>
+  <br>
   <a href="mailto:vedantdivate2506@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-vedantdivate2506-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
